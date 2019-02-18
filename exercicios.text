@@ -1,0 +1,11 @@
+1. Criação de variavél que pega a Data de Hoje com o formato de DD/MM/AAAA, é imprimir na tela com uma mensagem;
+
+2. Criação de variavél que pega a Hora Atual com o formato de HH:MM, é imprimir na tela com uma mensagem;
+
+3. Criação de variavél e teste Lógico que analisa se é verdadeiro o Diretório /tmp, é imprimir na tela com uma mensagem;
+
+4. Criação de variavél e teste Lógico que verificar se existe o Diretório /tmp/seu_nome, caso não exista, fazer a sua criação;
+
+5. Criação de variavél e teste Lógico que verifica se existe o Arquivo seu_nome.txt dentro do Diretório /tmp/seu_nome, caso não exista, fazer a sua criação;
+
+6. Criação de um teste lógico INOVADOR para ser apresentado;
